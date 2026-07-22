@@ -22,6 +22,8 @@ Full-Stack Developer building web apps with JavaScript & AI integrations.
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-5478&show_icons=true&theme=default&hide_border=true" alt="Rahul's GitHub Stats" width="480" />
+  <img src="https://github-readme-stats-eight-rho.vercel.app/api?username=rahul-5478&show_icons=true&theme=default&hide_border=true" alt="Rahul's GitHub Stats" width="480" />
 </p>
