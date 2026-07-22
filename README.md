@@ -16,7 +16,10 @@ Full-Stack Developer building web apps with JavaScript & AI integrations.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### 📌 Featured Projects
+### 📌 Featured Projects
+- [AI-INTERVIEW-PLATFORM](https://github.com/rahul-5478/AI-INTERVIEW-PLATFORM) — AI-powered mock interview platform
 - [neuraflow-ai](https://github.com/rahul-5478/neuraflow-ai) — Full-stack AI platform
+- [glowup-ai](https://github.com/rahul-5478/glowup-ai) — AI-based project
 - [Skill-Analyzer](https://github.com/rahul-5478/Skill-Analyzer)
 - [pdftool](https://github.com/rahul-5478/pdftool)
 
