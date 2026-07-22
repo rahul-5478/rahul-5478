@@ -3,8 +3,8 @@ Full-Stack Developer building web apps with JavaScript & AI integrations.
 - 🔭 Currently working on: **neuraflow-ai** (Full-Stack AI Platform), **Skill-Analyzer**
 - 🌱 Learning: TypeScript, Next.js
 - 💬 Ask me about: React, Node.js, MongoDB, Express
-- 📫 Reach me: rahulkumar@example.com
-- 🔗 LinkedIn: https://linkedin.com/in/rahul-kumar
+- 📫 Reach me: Kumartiwari0005@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/rahul-kumar-a51935296](https://www.linkedin.com/in/rahul-kumar-a51935296/)
 
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -21,4 +21,7 @@ Full-Stack Developer building web apps with JavaScript & AI integrations.
 - [pdftool](https://github.com/rahul-5478/pdftool)
 
 ### 📊 GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-5478&show_icons=true&theme=default)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul-5478&show_icons=true&theme=default&hide_border=true" alt="Rahul's GitHub Stats" width="480" />
+</p>
