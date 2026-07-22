@@ -1,12 +1,10 @@
 # Hi, I'm Rahul Kumar 👋
-
 Full-Stack Developer building web apps with JavaScript & AI integrations.
-
 - 🔭 Currently working on: **neuraflow-ai** (Full-Stack AI Platform), **Skill-Analyzer**
-- 🌱 Learning: [yaha likho jo seekh rahe ho, e.g. TypeScript, Next.js]
+- 🌱 Learning: TypeScript, Next.js
 - 💬 Ask me about: React, Node.js, MongoDB, Express
-- 📫 Reach me: [tumhara email yaha]
-- 🔗 LinkedIn: [tumhara LinkedIn link yaha]
+- 📫 Reach me: rahulkumar@example.com
+- 🔗 LinkedIn: https://linkedin.com/in/rahul-kumar
 
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -15,7 +13,6 @@ Full-Stack Developer building web apps with JavaScript & AI integrations.
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### 📌 Featured Projects
 ### 📌 Featured Projects
 - [AI-INTERVIEW-PLATFORM](https://github.com/rahul-5478/AI-INTERVIEW-PLATFORM) — AI-powered mock interview platform
 - [neuraflow-ai](https://github.com/rahul-5478/neuraflow-ai) — Full-stack AI platform
